@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@100;300;400;700&family=Ultra&display=swap');
+body {
+    position: absolute;
+    background-color: #141c1f;
+    color : #f8f0de;
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+      Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  }
+
+h1{
+    font-size: 55px;
+    margin : 5px 0
+}
+
+h1, h2{
+    font-family: 'Gloock', serif;
+}
+
+h3, p, span {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+nav p{
+    font-size: 16px;
+    cursor: pointer;
+}
+nav p:hover{
+   text-decoration: underline;
+   color: #2f845E;
+   font-weight: 400;
+}
+
+p, span, button{
+    font-size: 20px;
+}
+
+span, button {
+    color: #2f845E;
+}

@@ -1,0 +1,26 @@
+.aboutContainer{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    align-items: center;
+}
+
+
+.textContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.textContainer h1{
+    align-self: flex-start;
+    margin-top: 30px;
+}
+.textContainer p{
+
+    width: 70%;
+    text-align: right;
+}
