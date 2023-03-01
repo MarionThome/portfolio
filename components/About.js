@@ -1,5 +1,5 @@
 import styles from "../styles/About.module.css"
-export default function About() {
+export default function About(props) {
   return (
     <div className={styles.aboutContainer}>
         <div className={styles.textContainer}>
