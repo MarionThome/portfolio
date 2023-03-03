@@ -1,7 +1,10 @@
 import styles from "../styles/About.module.css"
+import SocialMedia from "./SocialMedia";
+
 export default function About(props) {
   return (
     <main className={styles.container}>
+ 
         <div className={styles.textContainer}>
         <h1>About</h1>
         <p>
