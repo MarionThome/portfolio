@@ -2,4 +2,4 @@ import { createContext} from 'react';
 
 
 
-export const ComponentContext = createContext(null);
+export const ComponentContext = createContext([]);

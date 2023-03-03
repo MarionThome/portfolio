@@ -21,6 +21,7 @@ export default function Button(props) {
       }}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
+      onClick ={props.handleClick}
     >
       {props.name}
     </button>

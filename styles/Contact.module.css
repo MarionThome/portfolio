@@ -1,12 +1,6 @@
 .container{
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    max-width: 1200px;
-    margin: auto;
-    align-items: center;
+    flex-direction: column;
 }
-
 
 .textContainer {
     display: flex;
@@ -20,7 +14,7 @@
     margin-top: 30px;
 }
 .textContainer p{
-
+    font-size: 20px;
     width: 70%;
     text-align: right;
 }

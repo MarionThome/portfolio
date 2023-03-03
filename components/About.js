@@ -1,7 +1,7 @@
 import styles from "../styles/About.module.css"
 export default function About(props) {
   return (
-    <div className={styles.aboutContainer}>
+    <main className={styles.container}>
         <div className={styles.textContainer}>
         <h1>About</h1>
         <p>
@@ -20,6 +20,6 @@ export default function About(props) {
           consequat.
         </p>
         </div>
-    </div>
+    </main>
   );
 }
