@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Moodies",
+    "keywords": ["react", "redux", "nodeJs", "API", "nextJS", "express"],
+    "description": "Recomandation tool for movies & TV shows. Uses the MyMoviesAPI on a React application, fully implemented with a Redux store, completely from-scratch. ",
+    "link": {
+      "github_front": "https://github.com/MarionThome/movieproject-frontend",
+      "github_back": "https://github.com/MarionThome/movieproject-backend",
+      "prod": "https://moodies-woad.vercel.app/"
+    },
+    "images": []
+  },
+  {
+    "name": "Concept Store",
+    "keywords": ["react", "redux", "mongoDB", "nodeJs", "nextJS", "express"],
+    "description": "Online store website made from scratch with various features (users authentification and orders info - Cart - Favorites)",
+    "link": {
+      "github_front": "https://github.com/MarionThome/conceptshop-frontend",
+      "github_back": "https://github.com/MarionThome/conceptstore-backend",
+      "prod": ""
+    },
+    "images": []
+  },
+  {
+    "name": "Chat App",
+    "keywords": ["react", "redux", "mongoDB", "nodeJs", "nextJS", "express"],
+    "description": "Little online real-time chat website made with Pusher",
+    "link": {
+      "github_front": "https://github.com/MarionThome/chatproject-frontend",
+      "github_back": "https://github.com/MarionThome/chatproject-backend",
+      "prod": "https://chatapp-frontend-nu.vercel.app/"
+    },
+    "images": []
+  },
+  {
+    "name": "Hackatweet",
+    "keywords": ["react", "redux", "mongoDB", "nodeJs", "next", "express"],
+    "description": "Twitter Clone with autentification system, feed and hashtags",
+    "link": {
+      "github_front": "https://github.com/MarionThome/hackatweet-frontend",
+      "github_back": "https://github.com/MarionThome/hackatweet-backend",
+      "prod": "https://hackatweet-frontend-three.vercel.app/"
+    },
+    "images": []
+  },
+  {
+    "name": "Drum Machine",
+    "keywords": ["react"],
+    "description": "Drum Machine made from scratch for the Free Code Camp Challenge",
+    "link": {
+      "github_front": "https://github.com/MarionThome/fcc-drummachine",
+      "github_back": "",
+      "prod": "https://fcc-drummachine-c4cu.vercel.app/"
+    },
+    "images": []
+  },
+  {
+    "name": "25 + 5 Clock",
+    "keywords": ["react", "redux"],
+    "description": "25 + 5 clock Drum Machine made from Scratch for the Free Code Camp Challenge",
+    "link": {
+      "github_front": "https://github.com/MarionThome/fcc-25clock",
+      "github_back": "",
+      "prod": "fcc-25clock.vercel.app"
+    },
+    "images": []
+  },
+  {
+    "name": "Markdown Previewer",
+    "keywords": ["react"],
+    "description": "Markdown Previewer made from Scratch for the Free Code Camp Challenge",
+    "link": {
+      "github_front": "https://github.com/MarionThome/fcc-markdown-previewer",
+      "github_back": "",
+      "prod": "630b7ca48dc0eb5b856d5de6--fanciful-banoffee-862552.netlify.app/"
+    },
+    "images": []
+  },
+  {
+    "name": "JS Calculator",
+    "keywords": ["react"],
+    "description": "Calculator made from Scratch for the Free Code Camp Challenge ",
+    "link": {
+      "github_front": "https://github.com/MarionThome/fcc-js-clalculator",
+      "github_back": "",
+      "prod": ""
+    },
+    "images": []
+  },
+  {
+    "name": "Travel Hack",
+    "keywords": ["reactNative", "redux", "nodeJs", "mongoDB", "express", "expo" ],
+    "description": "Travel react-native mobile application, with various features : géolocalisation, directions, places arround, budget estimation, realtime chat made with google maps API & Pusher",
+    "link": {
+      "github_front": "https://github.com/MarionThome/fcc-js-clalculator",
+      "github_back": "",
+      "prod": "fcc-js-clalculator.vercel.app"
+    },
+    "images": []
+  }
+]
