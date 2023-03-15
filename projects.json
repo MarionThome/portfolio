@@ -57,7 +57,7 @@
   {
     "name": "25 + 5 Clock",
     "keywords": ["react", "redux"],
-    "description": "25 + 5 clock Drum Machine made from Scratch for the Free Code Camp Challenge",
+    "description": "25 + 5 clock made from Scratch for the Free Code Camp Challenge",
     "link": {
       "github_front": "https://github.com/MarionThome/fcc-25clock",
       "github_back": "",
