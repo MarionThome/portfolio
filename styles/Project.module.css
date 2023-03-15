@@ -49,3 +49,21 @@
     justify-content: space-between;
 }
 
+.projectPic {
+    position : relative; 
+    width : 100%
+}
+
+@media (max-width: 600px) {
+    .projectContainer{
+        opacity: 1;
+        height: auto;
+    }
+    .projectPic{
+        display: none;
+    }
+    .projectInfo{
+        width: 90%;
+    }
+}
+

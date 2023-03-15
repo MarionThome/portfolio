@@ -7,7 +7,6 @@ export default function Project(props) {
   const hashtags = props.keywords.map((word) => {
     return <p>#{word}</p>;
   });
-  console.log(props);
 
   return (
     <div className={styles.projectContainer}>
@@ -33,7 +32,7 @@ export default function Project(props) {
           )}
         </div>
       </div>
-      <div style={{position : "relative", width : "100%"}}>
+      <div className={styles.projectPic}>
 
       <Image src = {props.images} fill={true} style = {{borderTopRightRadius : "10px", borderBottomRightRadius : "10px", boxShadow: "rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px"}}/>
       </div>

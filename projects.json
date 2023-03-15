@@ -34,7 +34,7 @@
   },
   {
     "name": "Hackatweet",
-    "keywords": ["react", "redux", "mongoDB", "nodeJs", "next", "express"],
+    "keywords": ["react", "redux", "mongoDB", "nodeJs", "nextJS", "express"],
     "description": "Twitter Clone with autentification system, feed and hashtags",
     "link": {
       "github_front": "https://github.com/MarionThome/hackatweet-frontend",
