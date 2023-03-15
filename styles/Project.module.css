@@ -3,9 +3,14 @@
     text-align: left;
     margin: 2rem 0;
     justify-content: space-between;
-    background-color: #2f845E;
+    background-color: #005a53;
     border-radius: 10px;
     height: 360px;
+    opacity: 0.7;
+}
+
+.projectContainer:hover{
+    opacity: 1;
 }
 
 .projectInfo{

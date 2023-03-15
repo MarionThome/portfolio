@@ -35,7 +35,7 @@ export default function Project(props) {
       </div>
       <div style={{position : "relative", width : "100%"}}>
 
-      <Image src = {placeholder} fill={true} style = {{borderRadius : "10px"}}/>
+      <Image src = {props.images} fill={true} style = {{borderTopRightRadius : "10px", borderBottomRightRadius : "10px", boxShadow: "rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px"}}/>
       </div>
     </div>
   );

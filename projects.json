@@ -8,7 +8,7 @@
       "github_back": "https://github.com/MarionThome/movieproject-backend",
       "prod": "https://moodies-woad.vercel.app/"
     },
-    "images": []
+    "images": "https://imgur.com/3gK6KjR.png"
   },
   {
     "name": "Concept Store",
@@ -19,7 +19,7 @@
       "github_back": "https://github.com/MarionThome/conceptstore-backend",
       "prod": ""
     },
-    "images": []
+    "images": "https://imgur.com/PFAdjdF.png"
   },
   {
     "name": "Chat App",
@@ -30,7 +30,7 @@
       "github_back": "https://github.com/MarionThome/chatproject-backend",
       "prod": "https://chatapp-frontend-nu.vercel.app/"
     },
-    "images": []
+    "images": "https://imgur.com/ZxrXgnN.png"
   },
   {
     "name": "Hackatweet",
@@ -41,7 +41,7 @@
       "github_back": "https://github.com/MarionThome/hackatweet-backend",
       "prod": "https://hackatweet-frontend-three.vercel.app/"
     },
-    "images": []
+    "images": "https://imgur.com/7s41t5Z.png"
   },
   {
     "name": "Drum Machine",
@@ -52,7 +52,7 @@
       "github_back": "",
       "prod": "https://fcc-drummachine-c4cu.vercel.app/"
     },
-    "images": []
+    "images": "https://imgur.com/lY0ZBI2.png"
   },
   {
     "name": "25 + 5 Clock",
@@ -63,7 +63,7 @@
       "github_back": "",
       "prod": "fcc-25clock.vercel.app"
     },
-    "images": []
+    "images": "https://imgur.com/dPtHj9w.png"
   },
   {
     "name": "Markdown Previewer",
@@ -74,7 +74,7 @@
       "github_back": "",
       "prod": "630b7ca48dc0eb5b856d5de6--fanciful-banoffee-862552.netlify.app/"
     },
-    "images": []
+    "images": "https://imgur.com/DW2tsfM.png"
   },
   {
     "name": "JS Calculator",
@@ -83,9 +83,9 @@
     "link": {
       "github_front": "https://github.com/MarionThome/fcc-js-clalculator",
       "github_back": "",
-      "prod": ""
+      "prod": "fcc-js-clalculator.vercel.app"
     },
-    "images": []
+    "images": "https://imgur.com/899Dl6t.png"
   },
   {
     "name": "Travel Hack",
@@ -94,8 +94,8 @@
     "link": {
       "github_front": "https://github.com/MarionThome/fcc-js-clalculator",
       "github_back": "",
-      "prod": "fcc-js-clalculator.vercel.app"
+      "prod": ""
     },
-    "images": []
+    "images": "https://imgur.com/Nq0XkHu.png"
   }
 ]
